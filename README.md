@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Hafeez Balogun
+#### Web Development 
+![Web Development ](https://pbs.twimg.com/profile_banners/1515080526276796418/1697977865/600x200)
 
 I'm Hafeez Balogun from Ireland but based in Nigeria, a web developer and is all set to dive into the exciting world of coding. I'm super eager to learn and take on new challenges while building cutting-edge web solutions. Let's team up on this fantastic journey! I'm here to learn and grow as a web developer. I'm pumped to apply my skills and tackle new challenges. Together, we can create amazing web solutions, making the internet even more awesome for everyone.
+
+
+Skills: bootstrap5 / JS / HTML / CSS
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeefah10)](https://github.com/anuraghazra/github-readme-stats)
 
