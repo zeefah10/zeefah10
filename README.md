@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**zeefah10/zeefah10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hafeez Balogun from Ireland but based in Nigeria, a web developer and is all set to dive into the exciting world of coding. I'm super eager to learn and take on new challenges while building cutting-edge web solutions. Let's team up on this fantastic journey! I'm here to learn and grow as a web developer. I'm pumped to apply my skills and tackle new challenges. Together, we can create amazing web solutions, making the internet even more awesome for everyone.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeefah10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
